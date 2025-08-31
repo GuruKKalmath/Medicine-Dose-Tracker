@@ -1,6 +1,6 @@
 # Medicine Dose Tracker
 
-A Java-based desktop application for managing and reminding users about their medicine doses. The application provides a user-friendly interface to add, view, and schedule reminders for different medicines.
+A Java-based desktop application for managing and reminding users about their medicine doses. The application provides a user-friendly interface to add, view, and schedule reminders for different medicines and efficiently.
 
 ## Features
 
